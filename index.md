@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Rik De Geyter
 
 You can use the [editor on GitHub](https://github.com/rikdegeyter/why-music/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
