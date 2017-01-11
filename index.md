@@ -1,3 +1,6 @@
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 ## Rik De Geyter
 
 The Belgian clarinetist Rik De Geyter is currently clarinettist/bass clarinettist of the Trondheim Symphony Orchestra in Norway, ass.prof. clarinet and bassclarinet at NTNU Institutt for Musikk in Trondheim and since 2011 is he assistant-teacher of Eddy Vanoosthuyse, first at the Lemmensinstitute in Leuven and now at the Royal Conservatory in Liège (Belgium).
