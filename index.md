@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](Rik @ Dokkhuset 13 maart 2016)
 Format: ![Alt Text](url)
 
 ## Rik De Geyter
